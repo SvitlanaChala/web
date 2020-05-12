@@ -16,8 +16,8 @@
         <div class="imgCenter">
             <img
                 src="<?php echo 'img/student-'.rand(1, 4).'.jpg'?>"
-                width="400"
-                height="400"
+                width="500"
+                height="500"
                 style="object-fit: cover"
                 alt="Моє фото"
             />
